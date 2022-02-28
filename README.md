@@ -1,5 +1,5 @@
 <h1>Olá, sou o Nathan. Estou no Segundo Período de ADS!</h1>
-<h2>Sou iniciante nas seguintes linguagens de progrmação:</h2>
+<h2>Sou iniciante nas seguintes linguagens de programação:</h2>
 <h3>- Python, Java, HTML, JavaScript, CSS, PHP, C.</h3>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
@@ -14,5 +14,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
- 
- 
