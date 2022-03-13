@@ -1,6 +1,6 @@
 <h1>Olá, sou o Nathan. Estou no Segundo Período de ADS!</h1>
 <h2>Sou iniciante nas seguintes linguagens de programação:</h2>
-<h3>- Python, Java, HTML, JavaScript, CSS, PHP, C.</h3>
+<h3>- Python, Java, HTML, JavaScript, CSS e PHP</h3>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBittencourt&layout=compact&theme=dark"/>
