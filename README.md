@@ -1,4 +1,4 @@
-<h1>Olá, sou o Nathan. Estou no Segundo Período de ADS!</h1>
+<h1>Olá, sou o Nathan. Estou no Terceiro Período de ADS!</h1>
 <h2>Sou iniciante nas seguintes linguagens de programação:</h2>
 <h3>- Python, Java, HTML, JavaScript, CSS e PHP</h3>
 
