@@ -2,6 +2,7 @@
 <h2>Já tive contato com as seguintes linguagens de programação:</h2>
 <h3>- Python, Java, HTML, JavaScript, CSS, PHP, C++ e C#</h3>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanBittencourt&show_icons=true&theme=dark"/>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
