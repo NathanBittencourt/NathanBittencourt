@@ -1,4 +1,4 @@
-<h2>Olá, sou o Nathan. Estou no Sexto Período do curso de ADS, na FASM.</h2>
+<h2>Olá, sou o Nathan. Sou formado em Análise e Desenvolvimento de Sistemas.</h2>
 <h2>Já tive contato com as seguintes linguagens de programação:</h2>
 <h3>- Python, Java, HTML, JavaScript, CSS, PHP, C++ e C#</h3>
 
