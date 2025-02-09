@@ -3,7 +3,7 @@
   Nathan Bittencourt
 </h1>
 
-<h2 align="center" style="font-family: 'League Spartan', sans-serif;">Olá, sou o Nathan. Sou formado em Análise e Desenvolvimento de Sistemas.</h2>
+<h2 align="center" style="font-family: 'League Spartan', sans-serif;">Sou formado em Análise e Desenvolvimento de Sistemas.</h2>
 
 <h2 align="center" style="font-family: 'League Spartan', sans-serif;">Já tive contato com as seguintes linguagens de programação:</h2>
 
@@ -13,7 +13,7 @@
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBittencourt&layout=compact&theme=dark"/>
 </div>
 <br>
-<div style="align-items: center;">
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
