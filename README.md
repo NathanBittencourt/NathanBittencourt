@@ -1,14 +1,4 @@
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
 
-  body {
-    background-color: #f5f5f5;
-    font-family: 'League Spartan', sans-serif;
-  }
-</style>
 <h1 align="center" style="color: white; background-color: black; padding: 20px; font-family: 'League Spartan', sans-serif; animation: fadeIn 2s ease-in-out;">
   Nathan Bittencourt
 </h1>
