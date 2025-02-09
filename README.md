@@ -1,6 +1,5 @@
-
-<h1 align="center" style="color: white; background-color: black; padding: 20px; font-family: 'League Spartan', sans-serif; animation: fadeIn 2s ease-in-out;">
-  Nathan Bittencourt
+<h1 align="center" style="color: white; background-color: black; padding: 20px; font-family: 'League Spartan', sans-serif;">
+  <span class="animated-name">Nathan Bittencourt</span>
 </h1>
 
 <h2 align="center" style="font-family: 'League Spartan', sans-serif;">Sou formado em Análise e Desenvolvimento de Sistemas.</h2>
@@ -41,4 +40,50 @@
   Seja para trocar ideias sobre tecnologia, negócios ou recomendações de filmes e livros, estou sempre aberto a novos contatos e aprendizados!
 </p>
 
+<div align="center" style="font-family: 'League Spartan', sans-serif; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/nathanbittencourt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+
+  .animated-name {
+    display: inline-block;
+  }
+
+  .animated-name span {
+    animation: blink 1.5s infinite;
+    animation-delay: calc(0.1s * var(--i));
+  }
+
+  .animated-name span {
+    opacity: 0;
+  }
+
+  @keyframes letterAnimation {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  .animated-name span {
+    display: inline-block;
+    animation: letterAnimation 3s infinite;
+    animation-delay: calc(0.1s * var(--i));
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const name = document.querySelector('.animated-name');
+    const letters = name.textContent.split('');
+    name.innerHTML = letters.map((letter, i) => `<span style="--i: ${i};">${letter}</span>`).join('');
+  });
+</script>
