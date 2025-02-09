@@ -12,6 +12,7 @@
 <div align="center">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanBittencourt&layout=compact&theme=dark"/>
 </div>
+<br>
 <div style="align-items: center;">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
