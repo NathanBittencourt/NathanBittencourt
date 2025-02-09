@@ -45,9 +45,8 @@
 </h3>
 <br>
 <h3 style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; font-family: 'League Spartan', sans-serif;">
-   Entusiasta de tecnologia, com foco em Inteligência Artificial, e grande interesse em negócios, empreendedorismo, gestão e inovação.
+   Sempre aberto a trocar ideias sobre tecnologia, negócios, filmes, livros e construir novos contatos e aprendizados.
 </h3>
-  Sempre aberto a trocar ideias sobre tecnologia, negócios, filmes, livros e construir novos contatos e aprendizados.
 <br>
 
 <div align="center" style="font-family: 'League Spartan', sans-serif; margin-top: 20px;">
