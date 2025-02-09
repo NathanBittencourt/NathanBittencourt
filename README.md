@@ -28,15 +28,15 @@
 
 <h2 align="center" style="font-family: 'League Spartan', sans-serif;">Sobre Mim</h2>
 
-<h3 align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; font-family: 'League Spartan', sans-serif;">
+<h3 style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; font-family: 'League Spartan', sans-serif;">
   Tenho 21 anos e sou de Muriaé, MG. Atualmente, atuo como Analista de Marketing na Rubeus, uma empresa de tecnologia que possui uma solução de CRM. 
-
+<br>
   Sou formado em Análise e Desenvolvimento de Sistemas pela FASM, e minha jornada profissional começou em 2022, como Estagiário de Projetos e Inovação na Secretaria de Educação da minha cidade, na Prefeitura de Muriaé.
-
+<br>
   Um entusiasta de tecnologia, com um interesse especial em Inteligência Artificial, me interesso profundamente pelo mundo dos negócios, incluindo empreendedorismo, gestão e inovação.
-
+<br>
   Na minha vida pessoal, amo cinema, literatura, séries e xadrez. Adoro estudar e me considero muito curioso, no melhor sentido da palavra. Acredito que cada um de nós tem um propósito, e tudo o que faço é movido pela busca constante de alcançar o meu.
-
+<br>
   Seja para trocar ideias sobre tecnologia, negócios ou recomendações de filmes e livros, estou sempre aberto a novos contatos e aprendizados!
 </h3>
 
