@@ -51,6 +51,3 @@
 </div>
 
 <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap" rel="stylesheet">
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nathanbittencourt" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/nathanbittencourt?trk=profile-badge">Nathan Bittencourt</a></div>
