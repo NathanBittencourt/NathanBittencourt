@@ -28,11 +28,12 @@
 <h2 align="center" style="font-family: 'League Spartan', sans-serif;">Sobre Mim</h2>
 
 <h3 style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; font-family: 'League Spartan', sans-serif;">
-   Tenho 21 anos, sou de Muriaé, MG, e atuo como Analista de Marketing na Rubeus, empresa de tecnologia com foco em CRM.
+   Tenho 22 anos, sou de Muriaé, MG.
 </h3>
 <br>
 <h3 style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; font-family: 'League Spartan', sans-serif;">
    Formado em Análise e Desenvolvimento de Sistemas pela FASM, iniciei minha carreira em 2022 como Estagiário de Projetos e Inovação na Secretaria de Educação de Muriaé.
+  Após isso atuei como Analista de Marketing na Rubeus.
 </h3>
 <br>
 <h3 style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; font-family: 'League Spartan', sans-serif;">
